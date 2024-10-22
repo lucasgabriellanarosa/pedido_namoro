@@ -1,0 +1,4 @@
+.não_btn:hover{
+    transition: all ease-in-out 200ms;
+    transform: translate(120px, 50%);
+}
